@@ -7660,19 +7660,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\Laptop HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workSpace\\pbl3\\web\\web.csproj",
+      "projectUniqueName": "C:\\Users\\Laptop HP\\source\\repos\\code_pbl3\\web\\web.csproj",
       "projectName": "web",
-      "projectPath": "D:\\workSpace\\pbl3\\web\\web.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\workSpace\\pbl3\\web\\obj\\",
+      "projectPath": "C:\\Users\\Laptop HP\\source\\repos\\code_pbl3\\web\\web.csproj",
+      "packagesPath": "C:\\Users\\Laptop HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Laptop HP\\source\\repos\\code_pbl3\\web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Laptop HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7735,7 +7735,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
